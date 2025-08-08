@@ -4,7 +4,7 @@ GuardAI is an Intrusion Detection System (IDS) that leverages the combined stren
 
 ---
 
-## Table of Contents**
+## Table of Contents
 
 * [Overview](#overview)
 * [Features](#features)
@@ -181,12 +181,5 @@ Contributions are welcome!
    git commit -m 'Add new feature'
    ```
 4. Push to your branch and submit a Pull Request.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-See the [LICENSE](LICENSE) file for details.
 
 ---
