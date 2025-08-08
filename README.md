@@ -92,7 +92,7 @@ GuardAI combines these two approaches:
 
 ## Dataset
 
-* Recommended Dataset:*[NSL-KDD](https://www.unb.ca/cic/datasets/nsl.html) or [CICIDS 2017](https://www.unb.ca/cic/datasets/ids-2017.html)
+* Recommended Dataset:[NSL-KDD](https://www.unb.ca/cic/datasets/nsl.html) or [CICIDS 2017](https://www.unb.ca/cic/datasets/ids-2017.html)
 * Dataset preprocessing steps:
 
   * Remove duplicate entries.
