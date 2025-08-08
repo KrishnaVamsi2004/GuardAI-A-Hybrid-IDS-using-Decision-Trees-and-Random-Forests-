@@ -128,7 +128,7 @@ GuardAI combines these two approaches:
 ## Usage
 
 1. Prepare the dataset and place it in the `data/` directory.
-2. **Run the training script**:
+2. Run the training script:
 
    ```bash
    python train.py --dataset data/nsl_kdd.csv
@@ -138,7 +138,7 @@ GuardAI combines these two approaches:
    ```bash
    python evaluate.py --model hybrid_model.pkl --test data/test.csv
    ```
-4. View results** (Confusion Matrix, Feature Importance):
+4. View results (Confusion Matrix, Feature Importance):
 
    * Plots will be saved in the `results/` directory.
 
